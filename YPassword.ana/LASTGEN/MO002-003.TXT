@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Compte		TAR	838	nouvelle taille enregistrement : 838
+Compte	Motdepasse	RUB+		Motdepasse est une nouvelle rubrique
+Compte	Pass	RUB-		la rubrique Pass est supprimée

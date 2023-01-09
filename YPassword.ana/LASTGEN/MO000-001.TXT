@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Profil		NFI		nouveau fichier
+Compte		NFI		nouveau fichier
+Contrainte_Profil_Compte		NWL	Profil (IDProfil) et Compte (IDProfil)	Nouvelle liaison entre les fichiers Profil (IDProfil) et Compte (IDProfil)
