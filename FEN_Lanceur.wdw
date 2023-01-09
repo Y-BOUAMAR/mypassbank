@@ -12,10 +12,10 @@ window :
  identifier : 0x23b3086701e0a530
  internal_properties : BwAAAAcAAAC5lRIMPRjW0LgJllF+VZgwnUvEG3prHK5025mPGlyOBKiZOBFeAMTIm+qxY34hGF05I7W8uq71J4CsM083AAgaBI7T9/z+UtDPN/zFOlJASm/0NJEoECFeZaYU9ds5+e4vHYOJztfNo1fCWsVym57CP8vA9MRJwO6FrTS4Vctmkkcm4vk+wmd2DjCAYOZmsdrwVbYkngQvgdyf/tOTGLcxn0TIQhN+tOMLbVAihGHH4iDs4DQH63WCdxC+9+2QdK+ZVgGbFuQj67/yjVd1IaHy4y91JLAnhWRbZ2Y8okvK04QFWUwDMeRhzy9ZGVOTbjqzwzsgpd+KFAcS7meVvYciEqpQlGSZRQoLjPLpaBoNHzbINBBICCD0hiYaNqed6Mi+tpK8vtsYPITFv/Y6eX8nr1DYVz8jkSid3+DaBUmlm37lbXrpk6UkWHvlhCX18VIQuoy/2WuEnpJZZoF7e33SXzpINKVGj4wHkjf7NfWFRd9lLTqQFR4waEK5/Ajp+7Y94Hccj3NhcD1qrzqbQq6OvMKuUG4qSMuXAOqqkRll089Pn+vtrY+aEIPTBuQutaYuzhgv4KMQHDSF7rqihrZEMJ6eksFxvEJe2ZSxBitpSWY0eOBoBu4rklDl3eWbN/JW+c6ZKolW0WHOXXY=
  properties :
-  width : 800
-  height : 600
-  widthClient : 798
-  heightClient : 568
+  width : 471
+  height : 346
+  widthClient : 469
+  heightClient : 314
  controls : []
  menu :
   name : _Menu
